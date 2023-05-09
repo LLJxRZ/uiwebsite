@@ -4,3 +4,7 @@ Hello dear developer, I will share the open codes of the book site that I have m
 
 <b>Attention</b>
 This Is a File Document Belonging to an Organization So Don't Forget To Mention The BooWir Name When Using This Document
+
+<b>Techs that used :</b>
+HTML
+CSS
